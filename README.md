@@ -244,6 +244,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
   <a href="https://github.com/yourusername/JWTAUTHAPI/issues">✨ Request Feature</a>
 </p>
 
-**Made with ❤️ by [Your Name]**
 
 </div>
